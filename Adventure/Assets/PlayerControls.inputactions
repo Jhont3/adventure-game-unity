@@ -6,7 +6,7 @@
             "id": "d382e381-3066-4e6f-a9cd-03cbcafb08b0",
             "actions": [
                 {
-                    "name": "TestingButton",
+                    "name": "Movement",
                     "type": "Button",
                     "id": "a9ee64ef-5812-4bbe-8423-aa36af0782bd",
                     "expectedControlType": "Button",
@@ -23,7 +23,7 @@
                     "interactions": "",
                     "processors": "",
                     "groups": "",
-                    "action": "TestingButton",
+                    "action": "Movement",
                     "isComposite": false,
                     "isPartOfComposite": false
                 }
